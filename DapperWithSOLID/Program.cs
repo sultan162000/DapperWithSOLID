@@ -9,10 +9,23 @@ namespace DapperWithSOLID
     {
         static void Main(string[] args)
         {
-            AddUser<Students> conn = new AddUser<Students>();
-            Students newS = new Students() { FullName = "Dilnoza Aminova", Course = 4, Team = 240010135 };
-            conn.OpenConnection();
-            conn.Add(newS);
+            WorkDb conn = new WorkDb();
+            Console.WriteLine("1.Посмотреть всех студентов\n2.Посмотреть по id\n3.Добавить студента в БД\n4.Выход");
+            int c = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                if (c == 1)
+                {
+                    
+                    
+                } else if(c == 2)
+                {
+                    Console.Write("Введите id: ");
+                    Students newU = conn.select(int.Parse(Console.ReadLine()));
+                    Console.WriteLine("ID: "+newU.Id+" FullName: "+newU.FullName+" Team: "+newU.Team);
+                }
+            }
+
             Console.ReadKey();
         }
     }

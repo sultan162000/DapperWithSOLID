@@ -16,7 +16,6 @@ namespace DapperWithSOLID.Controller
         public void OpenConnection()
         {
             connection.Open();
-            Console.WriteLine("Connection Open!");
         }
 
         public void CloseConnection()
