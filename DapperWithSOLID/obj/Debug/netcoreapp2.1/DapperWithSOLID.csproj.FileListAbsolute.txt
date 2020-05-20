@@ -1,0 +1,11 @@
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\bin\Debug\netcoreapp2.1\DapperWithSOLID.deps.json
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\bin\Debug\netcoreapp2.1\DapperWithSOLID.runtimeconfig.json
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\bin\Debug\netcoreapp2.1\DapperWithSOLID.runtimeconfig.dev.json
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\bin\Debug\netcoreapp2.1\DapperWithSOLID.dll
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.csprojAssemblyReference.cache
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.AssemblyInfoInputs.cache
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.AssemblyInfo.cs
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\bin\Debug\netcoreapp2.1\DapperWithSOLID.pdb
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.dll
+C:\Users\Sultan\source\repos\DapperWithSOLID\DapperWithSOLID\obj\Debug\netcoreapp2.1\DapperWithSOLID.pdb
